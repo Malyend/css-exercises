@@ -1,0 +1,22 @@
+.reg_class {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     
+}
+
+#ID_one {
+    color: blue;
+    font-size: 36px;
+}
+
+.cool-class {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+#ID_two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-style: bold;
+}
