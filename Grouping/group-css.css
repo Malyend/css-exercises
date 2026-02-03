@@ -1,0 +1,14 @@
+.Click,
+.no-Click {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Click {
+    background-color: black;
+    color: white;
+}
+
+.no-Click {
+    background-color: yellow;
+}
