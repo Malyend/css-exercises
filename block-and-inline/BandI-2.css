@@ -13,30 +13,42 @@ body {
   width: 400px;
   background: #fff;
   margin: 10px auto;
-
+  
   display: inline-block;
 }
 
 .title {
   background: #e3f4ff;
+
+  padding: 20px;
   font-weight: 700;
 }
 
+.text {
+  padding: 20px;
+
+  font-size: 45px;
+}
 .content {
   background: #e3f4ff;
   
   display: inline-block;
 
   font-size: 24px;
+  margin: -15px 0 15px 0;
+
+  width: 855px;
 }
 
-.button-cont {
-    
+#button-cont {
+    display: block;
+
 }
 .button-container {
   background: #e3f4ff;
 
   text-align: center;
+
 }
 
 button {
@@ -45,4 +57,9 @@ button {
 
   margin: auto;
   display: block;
+
+  font-size: 25px;
+
+  padding: 10px;
+
 }
