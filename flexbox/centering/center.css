@@ -1,0 +1,26 @@
+.container {
+  background: dodgerblue;
+  border: 4px solid midnightblue;
+  width: 400px;
+  height: 300px;
+
+  display: flex;
+
+  justify-content: center;
+  
+}
+
+.box {
+  background: maroon;
+  font-weight: bold;
+  text-align: center;
+  border: 6px solid rgb(148, 86, 86);
+  width: 80px;
+  height: 80px;
+
+  
+
+  align-self: center;
+  
+  
+}
